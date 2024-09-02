@@ -13,6 +13,9 @@ PBP, or Pengenalan Bahasa Programming, is one of the benefits received by partic
 
 In this learning session, the material taught is basic programming languages C and Python (for Senayan Region) which will be useful for you freshmen of the School of Computer Science who have never tried coding.
 
+Check More Information:
+https://bento.me/pbptechno2024
+
 ### What is Algorena? 💖
 
 In addition, PBP will also hold a competitive programming competition for beginners, namely Algorena! Of course, there are attractive prizes for the winners. Come on, join PBP!
